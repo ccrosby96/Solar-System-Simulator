@@ -2,9 +2,15 @@
 
 ## To Scale Solar System Simulator
 
-## Edit this line: Put your link to your youtube video here (see deliverables).
+## https://www.youtube.com/watch?v=fWyO-9nj0wg
 
 ## Edit this line: Put a few screenshots of your project here (see deliverables).
+
+<img src="./part1/media/shot1.png" width="100%" alt="picture">
+
+<img src="./part1/media/shot2.png" width="100%" alt="picture">
+
+<img src="./part1/media/shot3.png" width="100%" alt="picture">
 
 
 * Name and partners name(At most teams of 2 folks total)

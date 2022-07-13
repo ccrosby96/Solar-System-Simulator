@@ -4,7 +4,7 @@
 
 ## https://www.youtube.com/watch?v=fWyO-9nj0wg
 
-## Edit this line: Put a few screenshots of your project here (see deliverables).
+
 
 <img src="./part1/media/shot1.png" width="100%" alt="picture">
 

@@ -1,5 +1,3 @@
-*TODO*: Please edit the following information in your final project
-
 ## To Scale Solar System Simulator
 
 ## https://www.youtube.com/watch?v=fWyO-9nj0wg
